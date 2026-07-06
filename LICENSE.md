@@ -1,4 +1,4 @@
-# 
+# Novo RiskGuard pacote completo. Baixe e instale com implantação local e interface de linha de comando — rápido, seguro e fácil de usar.
 
 
 
